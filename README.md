@@ -1,8 +1,11 @@
  👋 Hi, I’m @PaulSong213
  <br/>
  👀 I’m interested in web development
+ <br/>
  🌱 I’m currently learning front-end web development
+ <br/>
  💞️ I’m looking to collaborate on freelance projects
+ <br/>
  📫 Email me at songaliajohnpaul@gmail.com
 
 <!---
