@@ -1,10 +1,10 @@
  👋 Hi, I’m Paul
  <br/>
- 👀 I’m interested in web development
+ 👀 I’m interested in software engineering
  <br/>
- 🌱 I’m currently learning front-end web development
+ 🌱 I’m currently learning full stack development
  <br/>
- 💞️ I’m looking to collaborate on business or freelance projects
+ 💞️ I’m looking for a full time work or freelance projects
  <br/>
 
 <!---
